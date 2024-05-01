@@ -17,8 +17,7 @@ Build an API with complex validation for managing dishes and orders for a food d
 
 1. **Download Files:** Ensure you have downloaded the project files.
 2. **Install Dependencies:** Run `npm install` in the project directory to install required dependencies.
-3. **Initialize Git (Optional):** Run `git init` to initialize a Git repository for version control (optional).
-4. **Run Tests (Optional):** Run `npm test` to execute the project's tests (optional). 
+
 
 **Important Notes:**
 
